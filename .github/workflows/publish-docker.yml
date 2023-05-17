@@ -1,6 +1,8 @@
 name: PubDocker
 
 on:
+  schedule:
+    - cron:  '*/1 * * * *'
   push:
     tags: ["*"]
 
