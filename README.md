@@ -62,22 +62,6 @@ docker-compose up
 
 - [John Sing Dao Siu](https://github.com/J-Siu)
 
-### Change Log
-
-- 2.9
-  - hostapd version 2.9
-- 2.9-r2
-  - hostapd version 2.9-r2
-- 2.9-r3
-  - Auto update to 2.9-r3
-- 2.9-r3-p1
-  - Add docker push github workflow
-- 2.10-r1
-  - Auto update to 2.10-r1
-- 2.10-r5
-  - Auto update to 2.10-r5
-<!--CHANGE-LOG-END-->
-
 ### License
 
 The MIT License
